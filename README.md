@@ -4,6 +4,7 @@ TGA Image Manipulator with Command Line Interface
 Usage:
 
 	./project2.out [output] [firstImage] [method] [...]
+note: "project2.out" can be changed to whatever follows -o in the makefile
 
 Example:
 
